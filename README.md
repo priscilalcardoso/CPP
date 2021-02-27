@@ -1,2 +1,2 @@
 # CPP
- Repositório dos testes da disciplina de Estrutura de Dados
+ Repositório dos testes da linguagem C++.
